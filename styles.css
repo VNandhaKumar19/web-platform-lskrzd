@@ -1,0 +1,58 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  text-align: center;
+}
+
+.align {
+  width: auto;
+}
+
+.breadcrumbs {
+  border-top: 1px solid #d7dae2;
+  flex-direction: row;
+  justify-content: center;
+  overflow-x: auto;
+  padding: 0 20px;
+  scrollbar-width: thin;
+}
+
+.blue{
+  color: #0a2458;
+}
+
+ul{
+  color: #0a2458
+}
+
+h1{
+  font-size: 44px;
+  font-family:serif;
+  font-variant: normal;
+font-weight: 400;
+letter-spacing: -.015em;
+line-height: 132%;
+  color: #0a2458;
+flex: 0 0 auto;
+max-width: 100%;
+text-align: center;
+width: 100%;
+}
+
+h2{
+  color: #0a2458;
+  font-size: 16px;
+line-height: 176%;
+font-family: MercurySSm-Bold-Pro_Web,serif;
+text-align: left;
+margin: 5 auto;
+max-width: 50em;
+}
+
+.introduction, .first-section, .second-section{
+  text-align: justify;
+  margin: 0 auto;
+  max-width: 40em;
+  font-size: 16px;
+line-height: 176%;
+}
